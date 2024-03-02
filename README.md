@@ -5,7 +5,3 @@
 ⭐ Actively learning Solidity to craft smart contracts and contribute to decentralized applications.
 
 🤣 Not a fan of math, but that won't stop me from building awesome things on the blockchain!
-
-💪 Always ready to expand my knowledge and embrace new challenges.
-
-🚀 Let's connect and build the future of decentralized innovation together! 🚀
