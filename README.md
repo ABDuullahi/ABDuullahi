@@ -4,15 +4,11 @@ Hello! 👋 My name is Abdullahi (takarez on the net). I am a medic with a stron
 
 🔐 I am currently delving into the fascinating realm of blockchain security.
 
-Security profiles :
-
-C4 -> https://code4rena.com/@takarez
-
-Sherlock -> https://audits.sherlock.xyz/watson/takarez
+Security profile :
 
 Cantina -> https://cantina.xyz/u/takarez
 
-Codehawks -> https://profiles.cyfrin.io/u/takarez
+
 
 ## Daily Activities
 
